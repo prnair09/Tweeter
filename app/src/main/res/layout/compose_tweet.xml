@@ -92,7 +92,7 @@
             android:layout_alignParentRight="true"
             android:layout_alignParentTop="true"
             android:layout_margin="@dimen/text_margin_small"
-            android:background="@color/colorPrimary"
+            android:background="@color/twitterblue"
             android:enabled="false"
             android:text="@string/tweet"
             android:textColor="@color/white" />
