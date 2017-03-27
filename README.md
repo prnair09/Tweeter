@@ -26,9 +26,12 @@ The following **optional** features are implemented:
 
 * [x] Robust error handling, check if internet is available, handle error cases, network failures.
 * [x] While composing a tweet, user can see a character counter with characters remaining for tweet out of 140
-* [x] Compose activity is replaced with a modal overlay
+
+The following **bonus** features are implemented:
+
+* [x] Compose tweet functionality is build using modal overlay
 * [x] Replace all icon drawables and other static image assets with vector drawables where appropriate
-* [x] Used Coordinator layout.
+* [x] On the Twitter timeline, leveraged the CoordinatorLayout.
 
 
 
